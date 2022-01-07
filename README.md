@@ -6,5 +6,7 @@
 
 문제를 풀다가 새로 알게 된 것, 오답노트 또한 블로그에도 틈틈히 기록 해놓자!
 
+[내 코드업](https://codeup.kr/userinfo.php?user=min0201ji)
+
 아자 아자 화이자~ :D
 
